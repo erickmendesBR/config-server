@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: file:///C:/Users/Erick/Desktop/Project_Bootstrap/config-repo
+          uri: https://github.com/erickmendesBR/config-repo
           default-label: master
 
 eureka:
